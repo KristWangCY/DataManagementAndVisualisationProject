@@ -10,3 +10,6 @@ After that, we specifically focused on Hourly Steps, Average Calories and Distan
 Same for Sleeping Time, so that we can personalize words to inform user to be healthy.  
 
 The key is all of these are interactive, which is pretty cool and practical.  
+
+# Teammates  
+Catarina Estiveira, Geunju Park, Yicheng Li, Aathithya Sidtharthan, Thomas Mathew, Krist.  

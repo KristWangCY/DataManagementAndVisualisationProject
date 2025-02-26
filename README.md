@@ -13,3 +13,6 @@ The key is all of these are interactive, which is pretty cool and practical.
 
 # Teammates  
 Catarina Estiveira, Geunju Park, Yicheng Li, Aathithya Sidtharthan, Thomas Mathew, Krist.  
+
+# Link  
+https://public.tableau.com/app/profile/geunju.park/viz/Fitbit-Group4/HomePage  

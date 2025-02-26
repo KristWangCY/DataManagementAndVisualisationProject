@@ -1,7 +1,5 @@
 # DataManagementAndVisualisationProject
-This project is focusing on analyzing the FitBit data.  
-
-We created an accessible and interactive BI based on Fitbit's data.  
+This project is focusing on analyzing the FitBit data, we created an accessible and interactive BI based on Fitbit's data.   
 
 Especially, we analyzed the user's action and listed the Active Minutes by Category, Hours Asleep by Category.  
 

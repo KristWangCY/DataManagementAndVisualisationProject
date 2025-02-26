@@ -15,5 +15,4 @@ Catarina Estiveira, Geunju Park, Yicheng Li, Aathithya Sidtharthan, Thomas Mathe
 # Link  
 https://public.tableau.com/app/profile/geunju.park/viz/Fitbit-Group4/HomePage  
 
-# Last Update  
-2025/Feb/26  
+# Last Update: 2025/2/26  
